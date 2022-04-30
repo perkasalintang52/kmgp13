@@ -13,7 +13,7 @@ handler.all = async function (m) {
 *${ucapan()}*
 ───⬡ 〔 𝐁𝐎𝐓 𝐂𝐇𝐀𝐓 〕 ⬡────
 ╭───────────────╮
-        My name 𝙆𝙧𝙞𝙯𝙮𝙣 ×͜× 
+        My name KAMAGAPO BOT ×͜× 
         Salah satu Bot diwhatsapp
 ╰───────────────╯
 ${user.banned ? 'kamu dibanned' : 'Silahkan mematuhi Rules Bot\nDemi kenyamanan kita bersama'}
